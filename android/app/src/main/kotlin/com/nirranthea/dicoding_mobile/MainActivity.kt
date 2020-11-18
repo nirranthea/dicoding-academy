@@ -1,0 +1,6 @@
+package com.nirranthea.dicoding_mobile
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
